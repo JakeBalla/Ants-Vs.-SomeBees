@@ -11,3 +11,5 @@ This is fully complete including the optional tasks!
 This is for the Fall 2021 version of the CS61A class.
 
 For more info visit the offical CS61A Fall 2021 website page for the project here: https://inst.eecs.berkeley.edu/~cs61a/fa21/proj/ants
+![image](![image](https://user-images.githubusercontent.com/25497318/183307022-b360addd-93e3-4ace-95bc-efb1aada0c2c.png)
+
