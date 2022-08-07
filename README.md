@@ -4,6 +4,8 @@ From CS61A Site: "In this project, you will create a tower defense game called A
 
 I coded the classes for the ants in ants.py file. This is fully complete including the optional tasks for the Fall 2021 version of the class!
 
+Play the game by running the ps1 file! You can also run this command in powershell: python3 gui.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
+
 "Acknowledgments: Tom Magrino and Eric Tzeng developed this project with John DeNero. Jessica Wan contributed the original artwork. Joy Jeng and Mark Miyashita invented the queen ant. Many others have contributed to the project as well!
 The new concept artwork was drawn by Alana Tran, Andrew Huang, Emilee Chen, Jessie Salas, Jingyi Li, Katherine Xu, Meena Vempaty, Michelle Chang, and Ryan Davis."
 
